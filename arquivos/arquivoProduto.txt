@@ -1,2 +1,1 @@
-tiposProdutos ; VERDURAS ; nome ; pao doce ; valor ; 5.0 ; quantidade ; 5 ; codigo ; 5 ; dataValidade ; 05/05/2027 ; 
-tiposProdutos ; VERDURAS ; nome ; Banana Caramelizada ; valor ; 4.0 ; quantidade ; 6 ; codigo ; 8 ; dataValidade ; 05/05/2027 ; 
+
